@@ -1,0 +1,27 @@
+h1{
+    font-size: large;
+}
+.Ana-blue{
+    color:rgb(73, 73, 143);
+    font-size: 30px;
+    text-transform: uppercase;
+}
+h2{
+    color: teal;
+    font-size: 20px;
+    font-style: initial;
+
+}.color-pink{
+    color: blueviolet;
+}
+li{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.fs-40{
+    font-size:40px;
+}
+.fs-50{
+    font-size: 50px;
+}
